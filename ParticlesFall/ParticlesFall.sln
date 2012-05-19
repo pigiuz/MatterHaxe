@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{319CB2C6-23BD-43E1-85B5-2AAFA3577041}") = "ParticlesFall", "ParticlesFall\ParticlesFall.nmeproj", "{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Android = Debug|Android
+		Debug|BlackBerry = Debug|BlackBerry
+		Debug|Flash = Debug|Flash
+		Debug|HTML5 = Debug|HTML5
+		Debug|iOS = Debug|iOS
+		Debug|Linux = Debug|Linux
+		Debug|Mac = Debug|Mac
+		Debug|webOS = Debug|webOS
+		Debug|Windows = Debug|Windows
+		Release|Android = Release|Android
+		Release|BlackBerry = Release|BlackBerry
+		Release|Flash = Release|Flash
+		Release|HTML5 = Release|HTML5
+		Release|iOS = Release|iOS
+		Release|Linux = Release|Linux
+		Release|Mac = Release|Mac
+		Release|webOS = Release|webOS
+		Release|Windows = Release|Windows
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Debug|Android.ActiveCfg = Debug|Android
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Debug|Android.Build.0 = Debug|Android
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Debug|BlackBerry.ActiveCfg = Debug|BlackBerry
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Debug|BlackBerry.Build.0 = Debug|BlackBerry
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Debug|Flash.ActiveCfg = Debug|Flash
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Debug|Flash.Build.0 = Debug|Flash
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Debug|HTML5.ActiveCfg = Debug|HTML5
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Debug|HTML5.Build.0 = Debug|HTML5
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Debug|iOS.ActiveCfg = Debug|iOS
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Debug|iOS.Build.0 = Debug|iOS
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Debug|Linux.ActiveCfg = Debug|Linux
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Debug|Linux.Build.0 = Debug|Linux
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Debug|Mac.ActiveCfg = Debug|Mac
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Debug|Mac.Build.0 = Debug|Mac
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Debug|webOS.ActiveCfg = Debug|webOS
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Debug|webOS.Build.0 = Debug|webOS
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Debug|Windows.ActiveCfg = Debug|Windows
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Debug|Windows.Build.0 = Debug|Windows
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Release|Android.ActiveCfg = Release|Android
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Release|Android.Build.0 = Release|Android
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Release|BlackBerry.ActiveCfg = Release|BlackBerry
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Release|BlackBerry.Build.0 = Release|BlackBerry
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Release|Flash.ActiveCfg = Release|Flash
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Release|Flash.Build.0 = Release|Flash
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Release|HTML5.ActiveCfg = Release|HTML5
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Release|HTML5.Build.0 = Release|HTML5
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Release|iOS.ActiveCfg = Release|iOS
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Release|iOS.Build.0 = Release|iOS
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Release|Linux.ActiveCfg = Release|Linux
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Release|Linux.Build.0 = Release|Linux
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Release|Mac.ActiveCfg = Release|Mac
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Release|Mac.Build.0 = Release|Mac
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Release|webOS.ActiveCfg = Release|webOS
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Release|webOS.Build.0 = Release|webOS
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Release|Windows.ActiveCfg = Release|Windows
+		{71819F16-0B27-4EFA-BFAE-D59EF8AFD4E0}.Release|Windows.Build.0 = Release|Windows
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ParticlesFall\ParticlesFall.nmeproj
+	EndGlobalSection
+EndGlobal

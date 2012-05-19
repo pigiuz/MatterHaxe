@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="ParticlesFall" package="com.testing.myapplication" version="1.0.0" company="" />
+	<app main="ParticlesFallDisplayList" file="ParticlesFallDisplayList" path="Export" />-->
+	<!--<app main="ParticlesFallGraphics" file="ParticlesFallGraphics" path="Export" />-->
+	<!--<app main="ParticlesFallBitmap" file="ParticlesFallBitmap" path="Export" />-->
+	
+	<window width="512" height="512" unless="mobile" />
+	<window fps="60" />
+
+	<source path="Source" />
+	
+	<haxelib name="nme" />
+	
+	<assets path="Assets" rename="assets" include="*" exclude="nme.svg" />
+	
+	<icon path="Assets/nme.svg" />
+	
+	<ndll name="std" />
+	<ndll name="regexp" />
+	<ndll name="zlib" />
+	<ndll name="nme" haxelib="nme" />
+	
+</project>
